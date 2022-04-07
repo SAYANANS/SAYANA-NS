@@ -5,4 +5,4 @@
   I'm currently pursuing <b>Data Analytics</b> certification program at <b>Edubridge,Mumbai</b>. </p>
 <h3>Social Handle - Connect with me on these platforms:</h3>
 <h4><b><a href="inkedin.com/in/sayana-ns-6995a422b/">linkedin</a></b></h4>
-<h4><b><a href="sayanans66@gmail.com">Gmail</a></b></h4>
+<h4><b>Gmail:</b><a href="sayanans66@gmail.com">sayanans66@gmail.com</a></h4>
